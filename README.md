@@ -12,10 +12,10 @@ Superset of javascript language.
 
 ### Javascript versions:
 
-ES5(ECMAScript5): supported by all browser
-ES6(2015)
-ES2016
-ES2017
+- ES5(ECMAScript5): supported by all browser
+- ES6(2015)
+- ES2016
+- ES2017
 
 ## Types in typescript:
 
